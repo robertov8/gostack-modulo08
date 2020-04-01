@@ -24,7 +24,7 @@ export default createGlobalStyle`
   }
   
   a {
-    list-style: none;
+    text-decoration: none;
   }
   
   button {
